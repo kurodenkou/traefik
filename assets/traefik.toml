@@ -380,7 +380,7 @@
 #
 # Required
 #
-# address = ":8080"
+address = ":8080"
 
 # SSL certificate and key used
 #
